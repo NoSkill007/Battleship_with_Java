@@ -1,6 +1,6 @@
 [![Logo.png](https://i.postimg.cc/d18YM7nD/Logo.png)](https://postimg.cc/8JP3Mz2V)
-# Battleship-with-Java-V-0.1
-A Battleship game with 2D graphical interface created in Java.
+# Battleship with Java
+A Battleship game with 2D graphical interface created in Java with NetBeans.
 
 ## Features
 - 2D Graphical Interface: Enjoy an attractive visual environment while playing the classic Battleship game.
